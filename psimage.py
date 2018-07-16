@@ -10,7 +10,7 @@ draw=ImageDraw.Draw(one)
 
 
 
-#根据半径求坐标 以30度旋转，半径100
+#根据半径求坐标 以30度旋转，半径100px
 height,width=one.size
 x=width/2
 y=height/2
